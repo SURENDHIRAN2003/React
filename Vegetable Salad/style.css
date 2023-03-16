@@ -1,0 +1,29 @@
+*{
+    background-color: lightgreen;
+    text-align: center;
+}
+#title{
+    color: navy;
+}
+#vegetableSaladImage{
+    width: 500px;
+    height: 500px;
+}
+#benefits{
+    color: blue;
+}
+#steps{
+    color: blue;
+}
+#benefitsParagraph{
+    color: navy;
+}
+#stepForVegetableSalad{
+    color: navy;
+    list-style: inside;
+}
+#footerText{
+    color: navy;
+}
+
+
